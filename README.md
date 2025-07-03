@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen SH
-- 👀 I’m interested in Web Development
+- 👀 I’m into Web Development
 - 📫 How to reach me : Naveensharalayya@gmail.com
 - 😄 Pronouns: He/him
 
