@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen S H</h1>
-<h3 align="center">I am Naveen S H, a final-year B.Tech student in Electrical Engineering at IIT Indore, with a strong passion for Full-stack Web Development. I have a solid understanding of C++ and Data structures and algorithm. I also have interest in Cloud Architecture and services.</h3>
+<h3 align="center">I am Naveen S H, a final-year B.Tech student in Electrical Engineering at IIT Indore, with a strong passion for Full-stack Web Development. I have a solid understanding of C++ and Data structures and algorithm. I also have interest in IoT, Cloud Architecture and services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensh7&label=Profile%20views&color=0e75b6&style=flat" alt="naveensh7" /> </p>
 
